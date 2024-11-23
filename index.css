@@ -17,7 +17,7 @@ nav {
     display: flex;
     justify-content: space-between;
     padding: 20px 5%;
-    background-color: #327843;
+    background-color: #3278b7; /* Changed from green to blue */
 }
 
 nav .heading {
@@ -46,7 +46,7 @@ nav ul li a {
 }
 
 nav ul li:hover {
-    background-color: rgb(37, 156, 37);
+    background-color: rgb(37, 98, 156); /* Changed from green to blue */
 }
 
 nav ul li a:hover {
@@ -80,7 +80,7 @@ nav .sideMenuButton {
     position: fixed;
     top: 0;
     right: 0%;
-    background-color: green;
+    background-color: #2b79da; /* Changed from green to blue */
     overflow-x: hidden;
     transition: 0.3s ease-in;
     padding-top: 60px;
@@ -100,7 +100,7 @@ nav .sideMenuButton {
 .sideNavigationBar a button {
     padding: 10px 20px;
     border-radius: 10px;
-    color: green;
+    color: #2b79da; /* Changed from green to blue */
     font-size: 16px;
     border-style: none;
     font-weight: 700;
@@ -132,7 +132,7 @@ nav .sideMenuButton {
 .side1 h1 {
     font-size: 60px;
     margin-bottom: 10px;
-    color: green;
+    color: #2b79da; /* Changed from green to blue */
 }
 
 .side1 button {
@@ -269,7 +269,7 @@ section .topic a {
 }
 
 .button button:hover {
-    background-color: #8cc099;
+    background-color: #90c7f5; /* Changed from green to blue */
 }
 
 button {
@@ -280,7 +280,7 @@ button {
 }
 
 button:hover {
-    background-color: #8cc099;
+    background-color: #90c7f5; /* Changed from green to blue */
 }
 
 .rightside1 {
